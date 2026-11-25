@@ -1,7 +1,8 @@
 # Queue_tool
 This is an unofficial and completely free python script that makes a BEEP sound when the Reforger game queue is empty and you are entering the match.
 
-Very recommended to check if this script works on your PC
+Very recommended to check if this script works on your PC.
+The BEEP is not affected by the Windows app mixer volume of the game.
 
 
 ## How can I use it?
@@ -34,4 +35,4 @@ winsound,
 
 Look at the license before use.
 I recommend checking the script yourself before running it.
-Gionni1234 24/11/2026 (DD/MM/YYYY) V0.9
+Gionni1234 25/11/2026 (DD/MM/YYYY) V0.9
